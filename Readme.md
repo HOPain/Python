@@ -1,1 +1,1 @@
-<h1> Python Practice Codes </h1>
+<h1> Python Practice Codes 📖🐍</h1>
